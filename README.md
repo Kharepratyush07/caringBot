@@ -5,4 +5,6 @@ members. For calling and messaging purpose we use Sim800L module and for live lo
 the person can call and controlled the wheelchair with the help of camera module.
 
 **USE HEADPHONE FOR CLEAR SOUND**
+
+
 https://github.com/Kharepratyush07/caringBot/assets/91110869/9de2c300-5f52-4a91-8da4-788152ae4cf1
